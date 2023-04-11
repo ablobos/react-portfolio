@@ -4,7 +4,7 @@ import { capitalizeFirstLetter } from "../../utils/helpers";
 function Nav(props) {
     const { currentTab, handleTabChange } = props;
 
-    useEffect(() {
+    useEffect(() => {
         document.title = capitalizeFirstLetter(currentTab.name);
     }, [currentTab]);
 
