@@ -33,10 +33,10 @@ function App() {
             <title>Abdiel Villalobos' Portfolio | {currentTab} </title>
         </Helmet>
         ;
-        <header
+        <Header
         currentTab={currentTab}
         handleTabChange={handleTabChange}
-        ></header>
+        ></Header>
         <main>{renderTab()}</main>
         <Footer></Footer>
         </>

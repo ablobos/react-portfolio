@@ -520,7 +520,7 @@ label {
     header nav ul {
         margin-top: 20px;
         width: 100%;
-        jsutify-content: center;
+        justify-content: center;
     }
 
     header nav ul li a {
