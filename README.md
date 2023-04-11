@@ -69,7 +69,7 @@ A react applicaton that allows a user view the pages About, Contact, Portfolio, 
 
 ## Deployed Link
 
-x
+https://ablobos.github.io/react-portfolio/
 
 ## License
 
